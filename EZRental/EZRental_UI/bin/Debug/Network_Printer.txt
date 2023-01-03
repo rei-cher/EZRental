@@ -1,0 +1,34 @@
+The Credit Card Information:
+Credit Card Number = 1111111111111111
+Credit Card Owner Name = Johan Wilks
+Credit Card Issuing Company = American Express
+Merchant Code = 1
+Expiration Date = 1/1/2024 12:00:00 AM
+Billing Address Line 1 = 1111 Jay St.
+Billing Address Line 2 = 
+Billing City = Brooklyn
+Billing State = NY
+Billing Zipcode = 11209
+Billing Country = USA
+Credit Card Limit = 10000.00
+Credit Card Balance = 256.21
+Activation Status = True
+
+
+The Credit Card Information:
+Credit Card Number = 
+Credit Card Owner Name = 
+Credit Card Issuing Company = 
+Merchant Code = 0
+Expiration Date = 1/1/0001 12:00:00 AM
+Billing Address Line 1 = 
+Billing Address Line 2 = 
+Billing City = 
+Billing State = 
+Billing Zipcode = 
+Billing Country = 
+Credit Card Limit = 0
+Credit Card Balance = 0
+Activation Status = False
+
+
